@@ -1,1 +1,16 @@
+First Meeting Summary:
 
+Date: February 10th, 11:00 AM to 11:30 AM
+Attendees: Shiyu, Meredith, Pejman, and Hongbo
+
+Agenda:
+
+The group discussed their initial thoughts and questions about the project.
+A Github repository was created for the team to collaborate.
+The team agreed to independently review the project guidelines and reconvene at 1:00 PM on February 10th to plan the next steps in more detail.
+
+Action Items:
+
+Determine the client and purpose of the website.
+Confirm the number of pages required for the website.
+Each member should join the Github repository as a collaborator. 
