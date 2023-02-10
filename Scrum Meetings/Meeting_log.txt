@@ -2,6 +2,7 @@ First Meeting Summary:
 
 Date: February 10th, 11:00 AM to 11:30 AM
 Attendees: Shiyu, Meredith, Pejman, and Hongbo
+Meeting Minutes Taker: Shiyu
 
 Agenda:
 
@@ -11,6 +12,36 @@ The team agreed to independently review the project guidelines and reconvene at 
 
 Action Items:
 
-Determine the client and purpose of the website.
-Confirm the number of pages required for the website.
-Each member should join the Github repository as a collaborator. 
+Determine the client and purpose of the website. (Done. Client:Stephanie , Purpose: Introducing a sport) 
+Confirm the number of pages required for the website. ( Done. 5-10 pages )
+Each member should join the Github repository as a collaborator. (Done.)
+
+----------------------------
+
+
+Second Meeting Summary
+
+Date: February 10th, 1:00 PM to 1:50 PM
+Attendees: Entire group
+Meeting Minutes Taker: Shiyu
+
+Agenda:
+
+1. The team selected basketball as the topic for their website.
+2. The group agreed to hold daily scrum meetings, with a different member serving as the scrum master each time.
+3. The team engaged in a brainstorming session to determine the content they wanted to include on the website.
+4. Individual members were assigned specific tasks to gather information on different aspects of basketball over the weekend. (Details listed under Action    Items)
+
+Action Items:
+
+1. Collect information on various aspects of basketball. The following team members were assigned specific tasks:
+     Hong Bo - Gear and Best players
+     Pejman - History
+     Shiyu - Special events
+     Meredith - Rules and Technology
+(Note: The information should be shared on the group's Github repository under Website/Content and the URLs should be listed in the reference.txt file.)
+
+2. Confirm citation usage concerns with Stephanie. - Meredith
+
+
+
