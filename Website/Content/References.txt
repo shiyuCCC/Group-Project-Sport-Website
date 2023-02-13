@@ -1,2 +1,14 @@
 Rules and Regulations: https://en.wikipedia.org/wiki/Basketball#Rules_and_regulations
 Common techniques and Practices: https://en.wikipedia.org/wiki/Basketball#Common_techniques_and_practices
+
+---------------------------------
+Special Events
+Main pages of the events, which will be created as heyper links:
+
+1. Olympic Games: https://en.wikipedia.org/wiki/Basketball_at_the_Summer_Olympics
+2. FIBA World Cup: https://www.fiba.basketball/basketballworldcup/2023
+3. NBA Finals: https://www.nba.com/playoffs/2022/the-finals
+4. EuroLeague Final Four: https://www.euroleaguebasketball.net/euroleague/final-four/
+5. FIBA Americas Championship: https://www.fiba.basketball/americup/2022
+
+------------------------------
