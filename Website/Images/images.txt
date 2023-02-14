@@ -1,1 +1,0 @@
-I'm not certain, but I think we can upload image files to this folder, although it might not be necessary. If we use only images that we find on the web, we can keep a list of http links to those images in this folder.
