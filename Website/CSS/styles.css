@@ -1,1 +1,74 @@
+/* This is the CSS for Basketball website-Group 3 */
 
+body{
+    text-align: center;
+    margin-left: 144px;
+    margin-right: 144px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#1a202c;
+}
+
+
+/* Style the header */
+
+header {
+    color: white;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+  }
+
+  /* Style the logo Basketball*/
+  .logo {
+    width: 150px;
+  }
+
+  /* Style the navigation menu in side the header */
+  nav {
+    padding: 10px;
+  }
+
+  /* Style the navigation links in side the header */
+  nav a {
+    padding: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 14pt;
+    color: #1a202c;
+  }
+
+
+/* Style the Page Name Such as: Home/History/Special events...*/
+  #PageName {
+    background-color: #edf2f6;
+    color: #1a202c;
+    padding: 30px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 60px;
+  }
+
+/* Style image container */
+.image-container {
+    width:500px;
+    height:330px;
+    overflow:hidden;
+}
+
+/* Style image */
+.image-container img {
+    width: auto;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+h2{
+    float:left;
+    width: 100px;
+    margin-top: 30px;
+}
+#firstparagraph_specialevents {
+    width: 546px;
+    float:left;
+}
