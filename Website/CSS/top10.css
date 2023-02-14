@@ -26,23 +26,11 @@ img {
     margin-right: auto;
     width: 50%;
   }
-/*period = selector is a class name 
-.job-title{
-color:grey;
-font-weight: bold;
-}
-
-a{
-    color: orangered
-}
-p{
-    line-height: 1.5em
-    /*why is em?*/
-}
-li{
-    margin: top 5px;
-    background-color:lime;
-}
-span{
-    background-color: orange;
-} */
+  .textrt{
+    text-align: right;
+  }
+  .top{
+    color: black;
+    font-size: 60px;
+    text-align: center;
+  }
