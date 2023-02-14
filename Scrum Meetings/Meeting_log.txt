@@ -18,7 +18,6 @@ Each member should join the Github repository as a collaborator. (Done.)
 
 ----------------------------
 
-
 Second Meeting Summary
 
 Date: February 10th, 1:00 PM to 1:50 PM
@@ -42,6 +41,26 @@ Action Items:
 (Note: The information should be shared on the group's Github repository under Website/Content and the URLs should be listed in the reference.txt file.)
 
 2. Confirm citation usage concerns with Stephanie. - Meredith
+----------------------------
 
+Third Meeting Summary
 
+Date: February 13th, 11:50 AM to 12:15 PM
+Attendees: Entire group
+Meeting Minutes Taker: Pejman
 
+Agenda:
+
+1. The team decided to concentrate of finding appropriate images related to their specific tasks.
+2. Individual members were assigned creating their pages on HTML.
+3. The group determined each member's turn as scrum master (Details listed under Action Items).
+4. The team agreed to find more main headlines.
+
+Action Items:
+
+1. The routine of scrum master's turn of each member of the team:
+     Shiyu
+     Pejman
+     Hong Bo
+     Meredith
+----------------------------
