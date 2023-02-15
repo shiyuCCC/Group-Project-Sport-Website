@@ -40,6 +40,10 @@ header {
     padding-left: 10px;
   }
 
+/* Style the current page category */
+.currentpage{
+  color:chocolate;
+}
 
 /* Style the Page Name Such as: Home/History/Special events...*/
   #PageName {
