@@ -64,3 +64,14 @@ Action Items:
      Hong Bo
      Meredith
 ----------------------------
+Fourth Meeting Summary
+Date: February 14th, 1:00 PM to 1:50 PM
+Attendees: Entire group
+Meeting Minutes Taker: Hong Bo
+
+Agenda:
+The team talked about website style. and decide to use same color,font,style for each page
+
+Action Items:
+1. All the team member will continue to collect information and finish their page of HTML. 
+2. Shiyu will design the sytle(.CSS) of pages .
