@@ -1,1 +1,102 @@
+/* This is the CSS for Basketball website-Group 3 */
 
+body{
+    text-align: center;
+    margin-left: 144px;
+    margin-right: 144px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#1a202c;
+}
+
+
+/* Style the header */
+
+header {
+    color: white;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+  }
+
+
+  /* Style the logo Basketball*/
+  .logo {
+    width: 150px;
+  }
+
+  /* Style the navigation menu in side the header */
+  nav {
+    padding: 10px;
+    padding-left: 500px;
+  }
+
+  /* Style the navigation links in side the header */
+  nav a {
+    padding: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    color: #1a202c;
+    padding-left: 10px;
+  }
+
+/* Style the current page category */
+.currentpage{
+  color:chocolate;
+}
+
+/* Style the Page Name Such as: Home/History/Special events...*/
+  #PageName {
+    background-color: #f2f2f2;
+    color: #1a202c;
+    padding: 30px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 60px;
+  }
+
+
+/* Style the footer */
+footer {
+	background-color: #f2f2f2;
+	padding: 20px;
+	text-align: center;
+  margin-top: 100px;
+  font-size:10pt;
+}
+
+
+/* Style image container */
+.image-container {
+    width:500px;
+    height:330px;
+    overflow:hidden;
+}
+
+/* Style image */
+.image-container img {
+    width: auto;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+h2{
+  width: 500px;
+  margin-top: 30px;
+}
+
+#firstparagraph_specialevents {
+    width: 500px;
+    float:left;
+}
+
+#toprightimage {
+  padding-left: 30px;
+  float:right;
+
+}
+
+#logosofthegames {
+  width: 300px;
+}
